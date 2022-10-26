@@ -1,0 +1,3 @@
+
+cd /root/.terraform.d
+clone into this directory
